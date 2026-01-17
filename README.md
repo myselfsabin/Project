@@ -20,7 +20,3 @@ This project allows users to **view available furniture**, **sell furniture**, a
 - **Python 3**
 - Basic file handling (if used in modules)
 - Modular programming
-
----
-
-## 📂 Project Structure
